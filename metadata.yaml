@@ -1,0 +1,31 @@
+_repo: Dave-Darrin-on-the-Asiatic-StationWinning-Lieutenants-Commissions-on-the-Admiral-s-Flagship_41661
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41661-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hancock, H. Irving (Harrie Irving)
+    alias: Hancock, Harrie Irving
+    birthdate: 1868
+    deathdate: 1922
+    gutenberg_agent_id: '2034'
+    url: http://www.gutenberg.org/2009/agents/2034
+    wikipedia: http://en.wikipedia.org/wiki/H._Irving_Hancock
+description: ''
+gutenberg_issued: '2012-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Navy -- Officers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+- !lcsh 'China -- History -- 20th century -- Juvenile fiction'
+title: "Dave Darrin on the Asiatic Station\r\nOr, Winning Lieutenants' Commissions\
+  \ on the Admiral's Flagship"
+url: http://www.gutenberg.org/ebooks/41661
